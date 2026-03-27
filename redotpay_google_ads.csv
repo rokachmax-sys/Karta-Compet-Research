@@ -1,0 +1,2 @@
+﻿ad_id,page_name,page_id,ad_platform,publisher_platform,start_date,days_running,status,creative_text,banner_preview_url,link_url,cta,language_code,region_code
+N/A,NOTE: Google Ads Transparency data requires paid Apify actor subscription,,Google,GOOGLE_SEARCH,2026-03-27,0,N/A,"Google Ads Transparency Center scrapers (memo23, shashankms2580, shanks_d, hondzyk.suda) all require paid rental on Apify",,https://adstransparency.google.com/?domain=redotpay.com,,,
